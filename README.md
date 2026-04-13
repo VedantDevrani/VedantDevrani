@@ -34,7 +34,7 @@
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; About Me &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">&nbsp; About Me &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"></h2>
 
 <table align="center">
 <tr>
@@ -69,7 +69,7 @@
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; Tech Arsenal &nbsp;<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">&nbsp; Tech Toolbox &nbsp;<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"></h2>
 
 <table align="center">
 <tr>
@@ -154,7 +154,11 @@
 
 <!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30">&nbsp; Current Focus &nbsp;<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40">&nbsp; Current Focus &nbsp;<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"></h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" alt="Coding Focus"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻_Building-Hackathon_Projects-00EFFF?style=for-the-badge&labelColor=0d1117"/>
@@ -169,7 +173,7 @@
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; Featured Projects &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">&nbsp; Featured Projects &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"></h2>
 <br>
 
 <table align="center">
@@ -260,7 +264,7 @@
 
 <!-- ═══════════════════════ CODING VIBES ═══════════════════════ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30">&nbsp; Coding Vibes &nbsp;<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40">&nbsp; Coding Vibes &nbsp;<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40"></h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Developer"/>&nbsp;&nbsp;
@@ -277,7 +281,7 @@
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">&nbsp; GitHub Analytics &nbsp;<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">&nbsp; GitHub Analytics &nbsp;<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"></h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VedantDevrani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00EFFF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=00EFFF" />
@@ -308,7 +312,7 @@
 
 <!-- ═══════════════════════ RANDOM DEV QUOTE ═══════════════════════ -->
 
-<h2 align="center">💭 Dev Quote</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">&nbsp; Dev Quote &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -318,7 +322,7 @@
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">&nbsp; Let's Connect &nbsp;<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></h2>
 
 <p align="center">
   <a href="mailto:vedantdevrani177@gmail.com">
@@ -343,7 +347,15 @@
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🚀;Open+to+collaborations+%26+opportunities+💼;Happy+Coding!+💻✨" alt="Footer Typing SVG" />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" alt="Thank you"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00EFFF&center=true&vCenter=true&width=700&lines=⭐+Thanks+for+visiting+my+profile!+⭐;Let's+build+something+amazing+together!+🚀;Open+to+collaborations+%26+opportunities+💼;Happy+Coding!+💻✨" alt="Footer Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Thank you wave"/>
 </p>
 
 <!-- ───────────── WAVE FOOTER ───────────── -->

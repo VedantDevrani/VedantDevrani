@@ -147,7 +147,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=react,React,61DAFB;node.js,Node.js,339933;python,Python,3776AB;typescript,TypeScript,3178C6;tailwindcss,Tailwind,06B6D4;&title=Most%20Used&theme=github_dark" alt="Tech Stack"/>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&line1=react,React,61DAFB;node.js,Node.js,339933;python,Python,3776AB;&line2=typescript,TypeScript,3178C6;tailwindcss,Tailwind,06B6D4;nextjs,Next.js,000000;&title=Most%20Used&theme=github_dark" alt="Tech Stack"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -258,12 +258,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ GITHUB TROPHIES ═══════════════════════ -->
+<!-- ═══════════════════════ CODING VIBES ═══════════════════════ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30">&nbsp; GitHub Trophies &nbsp;<img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30">&nbsp; Coding Vibes &nbsp;<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30"></h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VedantDevrani&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Developer"/>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="Coding"/>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Matrix"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" alt="Code Review"/>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="GitHub"/>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Developer Life"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

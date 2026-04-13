@@ -8,7 +8,7 @@
 <!-- ───────────── ANIMATED TYPING ───────────── -->
 <p align="center">
   <a href="https://github.com/VedantDevrani">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+my+digital+playground!;%F0%9F%9A%80+Building+scalable+apps+that+matter;%F0%9F%A7%A0+Exploring+AI%2C+Backend+%26+Full+Stack;%E2%9A%A1+Code.+Build.+Solve.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%F0%9F%91%8B+Welcome+to+my+digital+playground!;%F0%9F%9A%80+Building+scalable+apps+that+matter;%F0%9F%A7%A0+Exploring+AI%2C+Backend+%26+Full+Stack;%E2%9A%A1+Code.+Build.+Solve.+Repeat." alt="Typing SVG" />
   </a>
 </p>
 

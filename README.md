@@ -34,22 +34,42 @@
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; About Me &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
-```yaml
-name: Vedant Devrani
-role: Full Stack Developer & CSE Student
-location: India 🇮🇳
-education: B.Tech in Computer Science Engineering
+<table align="center">
+<tr>
+<td width="55%">
 
-motto: "Code. Build. Solve. Repeat. 🔁"
-```
+&nbsp; 🧑‍💻 &nbsp; **Name:** &nbsp; `Vedant Devrani`
+
+&nbsp; 🚀 &nbsp; **Role:** &nbsp; `Full Stack Developer & CSE Student`
+
+&nbsp; 🇮🇳 &nbsp; **Location:** &nbsp; `India`
+
+&nbsp; 🎓 &nbsp; **Education:** &nbsp; `B.Tech in Computer Science Engineering`
+
+&nbsp; ⚡ &nbsp; **Motto:** &nbsp; *"Code. Build. Solve. Repeat."* 🔁
+
+&nbsp; 💻 &nbsp; **Passionate about:** &nbsp; `Full Stack Dev` · `Backend Systems` · `Problem Solving`
+
+&nbsp; 🧠 &nbsp; **Exploring:** &nbsp; `APIs` · `Databases` · `Scalable Systems`
+
+&nbsp; 🏆 &nbsp; **Love:** &nbsp; `Building real-world projects & hackathon solutions`
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-<h2 align="center">⚡ Tech Arsenal ⚡</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; Tech Arsenal &nbsp;<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></h2>
 
 <table align="center">
 <tr>
@@ -134,7 +154,7 @@ motto: "Code. Build. Solve. Repeat. 🔁"
 
 <!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30">&nbsp; Current Focus &nbsp;<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻_Building-Hackathon_Projects-00EFFF?style=for-the-badge&labelColor=0d1117"/>
@@ -149,7 +169,7 @@ motto: "Code. Build. Solve. Repeat. 🔁"
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; Featured Projects &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 <br>
 
 <table align="center">
@@ -240,7 +260,7 @@ motto: "Code. Build. Solve. Repeat. 🔁"
 
 <!-- ═══════════════════════ GITHUB TROPHIES ═══════════════════════ -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30">&nbsp; GitHub Trophies &nbsp;<img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"></h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VedantDevrani&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
@@ -250,7 +270,7 @@ motto: "Code. Build. Solve. Repeat. 🔁"
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">&nbsp; GitHub Analytics &nbsp;<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"></h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VedantDevrani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00EFFF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=00EFFF" />

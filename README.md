@@ -35,6 +35,8 @@
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 <h2 align="center" style="border-bottom: none; margin-bottom: 0px;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45" style="vertical-align: middle; margin-bottom: 6px;"/>&nbsp; About Me &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45" style="vertical-align: middle; margin-bottom: 6px;"/></h2>
+<br>
+
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -70,6 +72,8 @@
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 <h2 align="center" style="border-bottom: none; margin-bottom: 0px;"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/>&nbsp; Tech Toolbox &nbsp;<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/></h2>
+<br>
+
 
 <table align="center">
 <tr>
@@ -124,6 +128,8 @@
 <!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
 
 <h2 align="center" style="border-bottom: none; margin-bottom: 0px;"><img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/>&nbsp; Current Focus &nbsp;<img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/></h2>
+<br>
+
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RzZTQxN2RqM3l5dDlwZmFjNDV3a3dvaGwyY3NpZWJ1a29icGF2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="Focused Developer"/>
@@ -144,6 +150,7 @@
 
 <h2 align="center" style="border-bottom: none; margin-bottom: 0px;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/>&nbsp; Featured Projects &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/></h2>
 <br>
+
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -234,6 +241,8 @@
 <!-- ═══════════════════════ CODING VIBES ═══════════════════════ -->
 
 <h2 align="center" style="border-bottom: none; margin-bottom: 0px;"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/>&nbsp; Coding Vibes &nbsp;<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/></h2>
+<br>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Developer"/>&nbsp;&nbsp;
@@ -251,6 +260,8 @@
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 <h2 align="center" style="border-bottom: none; margin-bottom: 0px;"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/>&nbsp; GitHub Analytics &nbsp;<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/></h2>
+<br>
+
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VedantDevrani&theme=tokyonight&hide_border=true&background=0d1117&ring=00EFFF&fire=ff007f&currStreakLabel=00EFFF&sideLabels=8A2BE2" />
@@ -277,6 +288,8 @@
 <!-- ═══════════════════════ RANDOM DEV QUOTE ═══════════════════════ -->
 
 <h2 align="center" style="border-bottom: none; margin-bottom: 0px;"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/>&nbsp; Dev Quote &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/></h2>
+<br>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%">
@@ -303,6 +316,8 @@
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
 <h2 align="center" style="border-bottom: none; margin-bottom: 0px;"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/>&nbsp; Let's Connect &nbsp;<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 6px;"/></h2>
+<br>
+
 
 <p align="center">
   <a href="mailto:vedantdevrani177@gmail.com">
